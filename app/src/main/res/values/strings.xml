@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Restaurants</string>
+
+    <string-array name="sort_types">
+        <item>Best match</item>
+        <item>Newest</item>
+        <item>Rating average</item>
+        <item>Distance</item>
+        <item>Popularity</item>
+        <item>Average product price</item>
+        <item>Delivery costs</item>
+        <item>Min cost</item>
+    </string-array>
+</resources>
